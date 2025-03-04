@@ -7,7 +7,7 @@
 6. Tugas-php
 7. Tugas-finalProject
 # Daftar perintah GiT
-- `git clone https://github.com/ChristianKarepowan/belajarGIT.git` → Mengunduh repositori ke lokal
+- `git clone https://github.com/GeraldyKevin0/belajarGIT.git` → Mengunduh repositori ke lokal
 - `git checkout -b <branch-name>` → Membuat branch baru
 - `touch <file.txt>` → Membuat file txt
 - `nano <file.txt>` → Mengedit file txt
